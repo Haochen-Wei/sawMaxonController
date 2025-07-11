@@ -1,4 +1,4 @@
-# (C) Copyright 2024 Johns Hopkins University (JHU), All Rights Reserved.
+# (C) Copyright 2024-2025 Johns Hopkins University (JHU), All Rights Reserved.
 #
 # --- begin cisst license - do not edit ---
 #
@@ -17,7 +17,7 @@
 #    EposCmdLib_LIBRARIES       -- path to library files
 #    EposCmdLib_FOUND           -- true if package found
 
-cmake_minimum_required(VERSION 3.0)
+cmake_minimum_required(VERSION 3.16)
 
 # Initialize
 set(EposCmdLib_FOUND FALSE)
